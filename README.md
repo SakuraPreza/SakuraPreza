@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center" style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Préza :fox_face:!</h1>
  <p align="center">I'm Software Developer & Designer!</p>
- <p>I don't want to be a fish which swimming ocean of code. I want to be he ocean.</p>
  </div>
  <h3 align="center">1 & 0</h3>
  <div align="center"> 
