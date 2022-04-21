@@ -4,8 +4,8 @@
  </div>
  
 <div>
-  <img width="35%" alt="" src="https://github-readme-stats.vercel.app/api?username=SakuraPreza&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A"/>
-  <img width="63%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraPreza&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
+  <img width="45%" alt="" src="https://github-readme-stats.vercel.app/api?username=SakuraPreza&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A"/>
+  <img width="52%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraPreza&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
 </div>
 Made with :heart:! 
 
