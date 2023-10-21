@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center" style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Préza :fox_face:!</h1>
+<h1 align="center" style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Préza :cherry_blossom:!</h1>
  <p align="center">I'm Software Developer & Designer!</p>
  </div>
  
